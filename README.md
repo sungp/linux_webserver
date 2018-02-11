@@ -27,7 +27,7 @@ This repo contains the instruction (this README file) on how to connect to linux
  * oauth2client
  * requests
 
-** Configuraiton made
+## Configuration made
 * grader user has been added and added sudoer's list
 * configure login to only use key-based login
 * root ssh has been disabled
